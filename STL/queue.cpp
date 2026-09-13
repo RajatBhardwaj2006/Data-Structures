@@ -2,6 +2,7 @@
 using namespace std;
 
 void explain_queue(){
+    // * queue 
     queue <int> q;
 
     q.push(1);     // add element
