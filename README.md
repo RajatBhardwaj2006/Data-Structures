@@ -1,8 +1,7 @@
 # 🚀 Data Structures & Algorithms
 
 <div align="center">
-
-![DSA Banner](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Data%20Structures%20%26%20Algorithms\&fontSize=40\&fontAlignY=35\&animation=twinkling)
+<!-- ![DSA Banner](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Data%20Structures%20%26%20Algorithms\&fontSize=40\&fontAlignY=35\&animation=twinkling) -->
 
 ### 🧠 Learn • Code • Visualize • Solve
 
